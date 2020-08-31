@@ -1,3 +1,3 @@
-"hello world"
+greeting = "hello world"
 
-hello_world.to_s
+greeting
